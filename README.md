@@ -5,7 +5,7 @@ LIF neuron simulation
 
 A single-neuron simulation implementing the Leaky Integrate-and-Fire (LIF) model from scratch using NumPy and Euler integration — no specialist neuroscience libraries required.
 
-Written as part of background preparation for PhD research in NeuroAI and Computational Neuroscience, exploring the relationship between biological neural circuit principles and artificial network design.
+Exploring the relationship between biological neural circuit principles and artificial network design.
 
 ---
 
