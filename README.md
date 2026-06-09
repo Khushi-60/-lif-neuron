@@ -1,3 +1,4 @@
+<img width="1484" height="887" alt="lif_neuron" src="https://github.com/user-attachments/assets/8ef636f7-f394-42e7-bb24-2b4de1ea0c1b" />
 # -lif-neuron
 LIF neuron simulation
 # Leaky Integrate-and-Fire Neuron Simulation
