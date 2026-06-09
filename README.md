@@ -1,4 +1,3 @@
-<img width="1484" height="887" alt="lif_neuron" src="https://github.com/user-attachments/assets/8ef636f7-f394-42e7-bb24-2b4de1ea0c1b" />
 # -lif-neuron
 LIF neuron simulation
 # Leaky Integrate-and-Fire Neuron Simulation
@@ -42,6 +41,9 @@ Running the script produces a two-panel figure:
 - **Bottom panel** — the input current step (on from 50 ms, off at 150 ms)
 
 Terminal output reports spike count, spike times, mean inter-spike interval, and mean firing rate.
+
+<img width="1484" height="887" alt="lif_neuron" src="https://github.com/user-attachments/assets/8ef636f7-f394-42e7-bb24-2b4de1ea0c1b" />
+
 
 ---
 
